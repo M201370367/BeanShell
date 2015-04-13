@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tests/test-scripts/Data/addclass.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tests/test-scripts/Data/addedCommand.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

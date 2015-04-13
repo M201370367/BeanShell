@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/bsh-classpath-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-reflect-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-commands-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-2.1b5-javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-2.1b5-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-util-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-core-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-bsf-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-classgen-2.1b5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/bsh-2.1b5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
